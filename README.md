@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/max1mde/fancy-readme-stats" target="_blank">
-      <img src="https://fancy-readme-stats.vercel.app/api?username=xeaeno&title=𝖝𝖊𝖆𝖊𝖓𝖔&theme=forest_winter&dark_bg=3&hide_border=false&height=210&description=I%20watch%20the%20Moon&footer=@xeaeno&include_all_commits=true&update=2">
+      <img src="https://fancy-readme-stats.vercel.app/api?username=AverageSMP&title=AverageSMP&theme=forest_winter&dark_bg=3&hide_border=false&height=210&description=I%20watch%20the%20Moon&footer=@averagesmp&include_all_commits=true&update=2">
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=About+me)]()<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=AverageSMP)]()<br>
 ### 👋 Hi, I’m Luca!  
 
 I’ve been **coding for over 2 years**, and I love exploring all kinds of projects – from web stuff to experimenting with new ideas.  
@@ -27,8 +27,3 @@ I’ve been **coding for over 2 years**, and I love exploring all kinds of proje
 - **Shade Studio's**
 
 <!--END_SECTION:recent_films-->
-
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <img src="grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
