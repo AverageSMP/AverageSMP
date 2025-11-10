@@ -27,3 +27,8 @@ I’ve been **coding for over 2 years**, and I love exploring all kinds of proje
 - **Shade Studio's**
 
 <!--END_SECTION:recent_films-->
+
+<!-- GitHub Contribution Snake -->
+<p align="center">
+  <img src="grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
